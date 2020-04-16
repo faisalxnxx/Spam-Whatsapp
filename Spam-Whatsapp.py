@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Author :  M_aref
+# Author :  Faisal_A
 # Youtub:  The-X-Cyber
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
